@@ -1,4 +1,4 @@
-# t3 - PortfoliU Project
+# PortfoliU Project
 
 ![image](./team/images/PortfoliU Project-logos_transparent_banner.png)
 
@@ -18,10 +18,10 @@ There are many students and incoming people entering the software and informatio
 
 ### Project Goals:
 
-- [] Develop/acquire the source code for simple personal website portfolios
-- [] Create tutorial documentation to aid users through the process of creating their site
-- [] Provide resources for users on how to build, maintain and individualize their site
-- [] Open the repository to the public
+- [ ] Develop/acquire the source code for simple personal website portfolios
+- [ ] Create tutorial documentation to aid users through the process of creating their site
+- [ ] Provide resources for users on how to build, maintain and individualize their site
+- [ ] Open the repository to the public
 
 ### Team Skills:
 
