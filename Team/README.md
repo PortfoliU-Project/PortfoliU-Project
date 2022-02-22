@@ -1,6 +1,6 @@
 # PortfoliU Project
 
-![image](./team/images/PortfoliU Project-logos_transparent_banner.png)
+![image](./images/PortfoliU Project-logos_transparent_banner.png)
 
 ### Mission:
 
