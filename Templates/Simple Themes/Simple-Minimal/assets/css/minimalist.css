@@ -1,0 +1,181 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,300,600');
+
+/* HTML */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Body */
+body {
+  font-family: 'Raleway', sans-serif !important;
+}
+
+/* Header and Section */
+header, section {
+  padding-top: 5rem;
+}
+
+/* Anchors */
+a {
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: black;
+  background-image: linear-gradient(to right, black, black);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: 100% 2px;
+  text-decoration: none !important;
+}
+
+/* Content tabs a */
+#content-tabs a {
+  text-decoration: none;
+}
+
+/* Social Icons a color */
+.social-icons a {
+  color: black!important;
+  background: none;
+}
+
+/* User Image */
+.user-image {
+  width: 140px;
+  height: 140px;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+@media (max-width: 767px) {
+  header .col-lg-2 {
+    padding-bottom: 3rem;
+  }
+}
+
+/* Content Switcher */
+.list-group-item.active {
+  color: white!important;
+  background: black!important;
+  border-color: black!important;
+}
+
+.list-group a {
+  color: black!important;
+}
+
+/* Timeline */
+.timeline-container {
+  width: 80%;
+  padding: 50px 0;
+  margin: 50px auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.timeline-container:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -1px;
+  width: 2px;
+  height: 100%;
+  background: #CCD1D9;
+  z-index: 1
+}
+.timeline-block {
+  width: -webkit-calc(50% + 8px);
+  width: -moz-calc(50% + 8px);
+  width: calc(50% + 8px);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -moz-box-pack: justify;
+  justify-content: space-between;
+  clear: both;
+}
+
+.timeline-block-right {
+  float: right;
+}
+
+.timeline-block-left {
+  float: left;
+  direction: ltr;
+}
+
+.marker {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid black;
+  background: white;
+  margin-top: 10px;
+  z-index: 9999
+}
+
+.timeline-content {
+  width: 95%;
+  padding: 0 15px;
+  color: black;
+}
+
+.timeline-block-left .timeline-content {
+ text-align:right;
+}
+
+.timeline-content .timeline-h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 25px;
+  font-weight: 500
+}
+
+.timeline-content .timeline-span {
+  font-size: 15px;
+  color: #a4a4a4;
+}
+
+.timeline-content .timeline-p {
+  font-size: 14px;
+  line-height: 1.5em;
+  word-spacing: 1px;
+  color: black;
+}
+
+
+@media screen and (max-width: 768px) {
+  .timeline-container:before {
+    left: 8px;
+    width: 2px;
+  }
+
+  .timeline-block {
+     width: 100%;
+     margin-bottom: 30px;
+  }
+  .timeline-block-right {
+     float: none;
+  }
+
+  .timeline-block-left {
+     float: none;
+     direction: ltr;
+  }
+ 
+ .timeline-block-left .timeline-content {
+   text-align:left;
+   order: 2;
+ }
+ 
+ .timeline-block-left .marker {
+   order: 1;
+ }
+}
