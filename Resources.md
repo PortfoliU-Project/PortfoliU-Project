@@ -17,6 +17,8 @@
 
 * https://medium.com/analytics-vidhya/portfolio-website-the-beginners-way-d43be855217e
 
+### Beginner's Guide to CodePen
+* https://www.freecodecamp.org/news/how-to-use-codepen/
 
 ## Website templates 
 
