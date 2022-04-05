@@ -7,7 +7,7 @@
 * https://www.cs.colostate.edu/~info/faq.html#11.01
 
 
-### how to create an host a webpage on github
+### How to create an host a webpage on github
 * https://pages.github.com/
 
 
