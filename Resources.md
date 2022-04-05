@@ -3,8 +3,8 @@
 
 ## Tutorials
 
-### CSU CS Student Free Webiste Hosting (See section 11)
-* https://www.cs.colostate.edu/~info/faq.html#11.01
+### [CS Student Free Webiste Hosting (See section 11)](https://www.cs.colostate.edu/~info/faq.html#11.01]CSU)
+start blurb.
 
 
 ### How to Create and Host a Webpage on Github
