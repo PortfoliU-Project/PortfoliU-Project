@@ -7,6 +7,8 @@
 
 * ### [CS Student Free Webiste Hosting Tutorial](https://github.com/CIS320-team-3/CIS320-Team-3/blob/main/Resources/Tutorials/CSU_CS_Student_Free_Website_Hosting.md)
 
+* ### [WordPress Online Portfolio Tutorial](https://github.com/CIS320-team-3/CIS320-Team-3/blob/main/Resources/Tutorials/WordPress_for_Beginners.md)
+
 * ### [How to Create and Host a Webpage on Github with Github Pages](https://github.com/CIS320-team-3/CIS320-Team-3/blob/main/Resources/Tutorials/Create_and_Host_Webpage_on_Github.md)
   * https://pages.github.com/
 
