@@ -9,3 +9,5 @@ Build and develop a free open-source repository with the resources, documentatio
 ## Find Resources and Tutorials [Here](https://github.com/CIS320-team-3/CIS320-Team-3/tree/main/Resources)
 
 ## Find a Free and Open-Source Portfolio Template [Here](https://github.com/CIS320-team-3/CIS320-Team-3/tree/main/Templates)
+
+## See a Live Example of one of our Dev's Portfolios [Here](https://www.cs.colostate.edu/~ebmartin/portfolio/root/)
