@@ -33,6 +33,6 @@
 
 * ### How to Build a Web Developer Portfolio for Free
   * [Part 1](https://levelup.gitconnected.com/how-to-build-a-web-developer-portfolio-for-free-d456699ecef7)
-  * Here is yet another detailed tutorial on creating your website. In this first part, we focus more on how to make the website.
+   * Here is yet another detailed tutorial on creating your website. In this first part, we focus more on how to make the website.
   * [Part 2](https://levelup.gitconnected.com/how-to-build-a-web-developer-portfolio-for-free-part-2-d099ff34f9b2)
-  * Our second part details the structure of your portfolio and how it should look. If you haven't made a portfolio for yourself before, this guide gives you great details and tips on how to do so!
+   * Our second part details the structure of your portfolio and how it should look. If you haven't made a portfolio for yourself before, this guide gives you great details and tips on how to do so!
