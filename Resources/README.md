@@ -32,7 +32,5 @@
   * If you're a beginner trying to create your own portfolio website, this tutorial is for you! It has clear instructions that are easy to follow and even some examples of portfolio websites at the end. This is a quick and easy process, even if you are inexperienced with GitHub or coding in general.
 
 * ### How to Build a Web Developer Portfolio for Free
-  * [Part 1](https://levelup.gitconnected.com/how-to-build-a-web-developer-portfolio-for-free-d456699ecef7)
-   * Here is yet another detailed tutorial on creating your website. In this first part, we focus more on how to make the website.
-  * [Part 2](https://levelup.gitconnected.com/how-to-build-a-web-developer-portfolio-for-free-part-2-d099ff34f9b2)
-   * Our second part details the structure of your portfolio and how it should look. If you haven't made a portfolio for yourself before, this guide gives you great details and tips on how to do so!
+  * [Part 1](https://levelup.gitconnected.com/how-to-build-a-web-developer-portfolio-for-free-d456699ecef7). Here is yet another detailed tutorial on creating your website. In this first part, we focus more on how to make the website.
+  * [Part 2](https://levelup.gitconnected.com/how-to-build-a-web-developer-portfolio-for-free-part-2-d099ff34f9b2). Our second part details the structure of your portfolio and how it should look. If you haven't made a portfolio for yourself before, this guide gives you great details and tips on how to do so!
