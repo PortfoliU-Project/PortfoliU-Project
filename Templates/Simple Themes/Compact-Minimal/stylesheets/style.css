@@ -254,6 +254,9 @@ ion-icon {
   animation: spin 2.5s linear infinite;
 }
 
+
+/* change this section for the content of the languages you can code in */
+
 @keyframes spin {
   0% {
     content: "Go";
