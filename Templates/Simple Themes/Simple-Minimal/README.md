@@ -7,6 +7,10 @@
 
 <h6 align="center"><a href="https://imgios.github.io/minimalist/">Demo</a> · Built with <a href="https://getbootstrap.com/">Bootstrap</a></h6>
 
+![](https://github.com/CIS320-team-3/CIS320-Team-3/blob/d600e6c4b912ca77ba1e74e26434aa8bc76d4537/Templates/Simple%20Themes/Simple-Minimal/assets/images/projects.jpeg)
+
+![](https://github.com/CIS320-team-3/CIS320-Team-3/blob/d600e6c4b912ca77ba1e74e26434aa8bc76d4537/Templates/Simple%20Themes/Simple-Minimal/assets/images/experience.jpeg)
+
 ## Contributors
 
 <a href="https://github.com/imgios/minimalist/graphs/contributors">
