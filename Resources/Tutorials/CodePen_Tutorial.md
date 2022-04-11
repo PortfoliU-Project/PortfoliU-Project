@@ -1,3 +1,8 @@
 # Build Your Own Website With CodePen 
 
-### 1. Go to the https://codepen.io webpage, and create your own CodePen account. You will do this by clicking "Sign up" at the top right of the page.
+### 1. Create a CodePen account. 
+To create a CodePen account, visit:
+
+    https://codepen.io
+    
+Click "Sign up" at the top right corner.
