@@ -1,9 +1,10 @@
 /* Custom properties/variables  */
 :root {
-  --main-white: #f0f0f0;
-  --main-red: #be3144;
-  --main-blue: #45567d;
-  --main-gray: #303841;
+  /*  Change hex colors to your preferred colors to change the color palette of your site  */
+  --main-font-color: #f0f0f0;
+  --main-accent-color: #be3144;
+  --main-second-color: #45567d;
+  --main-background-color: #303841;
 }
 
 /* Base reset */
@@ -73,7 +74,7 @@ body {
   font-size: 1.8rem; /* 18px */
   font-weight: 400;
   line-height: 1.4;
-  color: var(--main-white);
+  color: var(--main-font-color);
 }
 
 h1,
@@ -97,7 +98,7 @@ ul {
 
 a {
   text-decoration: none;
-  color: var(--main-white);
+  color: var(--main-font-color);
 }
 
 img {
@@ -114,7 +115,7 @@ img {
   top: 0;
   left: 0;
   width: 100%;
-  background: var(--main-red);
+  background: var(--main-accent-color);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
   z-index: 10;
 }
@@ -141,7 +142,7 @@ img {
 }
 
 .nav-list a:hover {
-  background: var(--main-blue);
+  background: var(--main-second-color);
 }
 
 /* Welcome section */
@@ -161,7 +162,7 @@ img {
   font-size: 3rem;
   font-weight: 200;
   font-style: italic;
-  color: var(--main-red);
+  color: var(--main-accent-color);
 }
 
 /* Projects section */
@@ -169,7 +170,7 @@ img {
 .projects-section {
   text-align: center;
   padding: 10rem 2rem;
-  background: var(--main-blue);
+  background: var(--main-second-color);
 }
 
 .projects-section-header {
@@ -206,13 +207,13 @@ img {
 }
 
 .project {
-  background: var(--main-gray);
+  background: var(--main-background-color);
   box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
   border-radius: 2px;
 }
 
 .code {
-  color: var(--main-gray);
+  color: var(--main-background-color);
   transition: color 0.3s ease-out;
 }
 
@@ -239,12 +240,12 @@ img {
 
 .btn-show-all {
   font-size: 2rem;
-  background: var(--main-gray);
+  background: var(--main-background-color);
   transition: background 0.3s ease-out;
 }
 
 .btn-show-all:hover {
-  background: var(--main-red);
+  background: var(--main-accent-color);
 }
 
 .btn-show-all:hover > i {
@@ -268,7 +269,7 @@ img {
   width: 100%;
   height: 80vh;
   padding: 0 2rem;
-  background: var(--main-gray);
+  background: var(--main-background-color);
 }
 
 .contact-section-header > h2 {
@@ -312,7 +313,7 @@ footer {
   justify-content: space-evenly;
   padding: 2rem;
   background: var(--main-gray);
-  border-top: 4px solid var(--main-red);
+  border-top: 4px solid var(--main-accent-color);
 }
 
 footer > p {
