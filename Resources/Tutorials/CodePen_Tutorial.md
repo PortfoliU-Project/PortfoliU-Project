@@ -20,11 +20,11 @@ Log into your email address, and verify that you have created a CodePen account.
 
 ### 3. Create a new Pen in CodePen
 You can create either projects or pens in CodePen. Pens work with HTML, CSS, and JS. We will need HTML and CSS for our personal website. Double click
-"Pen" on the left panel. 
+"Pen" on the left side of the screen. 
 
 ![image](https://www.freecodecamp.org/news/content/images/2021/10/Screen-Shot-2021-10-29-at-11.49.12-PM.png)
 
-Three panels will open: HTML, CSS, and JS. 
+Three sections will open: HTML, CSS, and JS. 
 
 ![image](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/1094621300/original/ODz1_f8DXdmMhpVJ6wBl8MpJn4txzSEA_A.png?1598957842)
 
@@ -53,7 +53,7 @@ Code is found here:
 
 ![TEST4](https://user-images.githubusercontent.com/98966846/162861509-db11f0a7-1778-4e11-8de8-2c2cdd72a1b1.jpg)
 
-Copy the HTML code and paste it in the CodePen HTML panel. Copy the CSS code and paste it in the CodePen CSS panel. You can see the template sample in the bottom console on CodePen.
+Copy the HTML code and paste it in the CodePen HTML section. Copy the CSS code and paste it in the CodePen CSS section. You can see the template sample in the bottom console on CodePen.
 
 ![image](https://user-images.githubusercontent.com/98966846/162871295-af10291b-5c4e-4e84-b236-1a69040bb7f7.PNG)
 
@@ -64,7 +64,7 @@ Now you will be able to make changes to the code, and see changes in real time. 
 ![image](https://user-images.githubusercontent.com/98966846/162871305-1b1da3a8-f742-488e-b3a7-0d1e118c4342.PNG)
 
 ### 6. Publish
-You can save your changes while you are editing by clicking the "Save" button above the three panels. Once you are done with editing your website, you can name your Pen. After that , you will need to click the button at the bottom of the console to get your link to your website.
+You can save your changes while you are editing by clicking the "Save" button above the three sections. Once you are done with editing your website, you can name your Pen. After that , you will need to click the button at the bottom of the console to get your link to your website.
 
 Name Pen and click the button at the bottom of the console: 
 
