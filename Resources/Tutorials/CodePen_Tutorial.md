@@ -8,7 +8,7 @@ To create a CodePen account, visit:
     
 Click "Sign up" at the top right corner. You can sign up with an existing Twitter, Facebook, or Github account. You can also sign up with an email address.
 
-![image](https://www.freecodecamp.org/news/content/images/size/w2000/2021/03/homepage-codepen.png)![image](https://user-images.githubusercontent.com/98966846/162860250-4c3bd00d-9700-4856-8a55-238f12414a20.jpeg)
+![image](https://www.freecodecamp.org/news/content/images/size/w2000/2021/03/homepage-codepen.png)
 
 
 
@@ -19,7 +19,8 @@ Log into your email address, and verify that you have created a CodePen account.
 
 
 ### 3. Create a new Pen in CodePen
-You can create either projects or pens in CodePen. Pens work with HTML, CSS, and JS. We will need HTML and CSS for our personal website. Double click
+You can create either projects or pens in CodePen. Pens work with HTML, CSS, and JS. We will need HTML and CSS for our personal website. Double click![image](https://user-images.githubusercontent.com/98966846/162872047-db5bffc1-3f00-4dbf-9016-0b2de39deba1.png)
+
 "Pen" on the left panel. 
 
 ![image](https://www.freecodecamp.org/news/content/images/2021/10/Screen-Shot-2021-10-29-at-11.49.12-PM.png)
@@ -54,16 +55,15 @@ Code is found here:
 
 ![TEST4](https://user-images.githubusercontent.com/98966846/162861509-db11f0a7-1778-4e11-8de8-2c2cdd72a1b1.jpg)
 
-Copy the HTML code and paste it in the CodePen HTML panel. Copy the CSS code and paste it in the CodePen CSS panel
+Copy the HTML code and paste it in the CodePen HTML panel. Copy the CSS code and paste it in the CodePen CSS panel. You can see the template sample in the bottom console.
 
-![TEST5](https://user-images.githubusercontent.com/98966846/162862058-c868ada5-a017-49ac-82c6-47ba373fa5bc.jpg)
-
-
+![image](https://user-images.githubusercontent.com/98966846/162871295-af10291b-5c4e-4e84-b236-1a69040bb7f7.PNG)
 
 
+### 5. Edit code
+Now you will be able to make changes to the code, and see changes in real time. You will now add your personal information!
 
-
-
+![image](https://user-images.githubusercontent.com/98966846/162871305-1b1da3a8-f742-488e-b3a7-0d1e118c4342.PNG)
 
 
 
