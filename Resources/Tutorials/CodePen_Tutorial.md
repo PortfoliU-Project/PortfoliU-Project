@@ -63,6 +63,20 @@ Now you will be able to make changes to the code, and see changes in real time. 
 
 ![image](https://user-images.githubusercontent.com/98966846/162871305-1b1da3a8-f742-488e-b3a7-0d1e118c4342.PNG)
 
+### 6. Publish
+You can save your changes while you are editing by clicking the "save" button above the three panels. Once you are done with editing your website, you can name your Pen. After that , you will need to click the button at the bottom of the console to get your link to your website.
+
+Name Pen and click the button at the bottom of the console. 
+
+![image](https://user-images.githubusercontent.com/98966846/163002675-8f938fb8-dec5-45f2-9556-2ec67eb5d700.jpg)
+
+A new tab will open. Now you can copy the URL of your website and share it with anyone you'd like. It can be accessed with and without a CodePen account. 
+
+Congratulations! You now have your own website!
+
+![image](https://user-images.githubusercontent.com/98966846/163005931-3b504dce-bd88-4f52-a5a0-e6990733cc8b.jpg)
+
+
 
 
 
