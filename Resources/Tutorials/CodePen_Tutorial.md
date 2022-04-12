@@ -64,9 +64,9 @@ Now you will be able to make changes to the code, and see changes in real time. 
 ![image](https://user-images.githubusercontent.com/98966846/162871305-1b1da3a8-f742-488e-b3a7-0d1e118c4342.PNG)
 
 ### 6. Publish
-You can save your changes while you are editing by clicking the "save" button above the three panels. Once you are done with editing your website, you can name your Pen. After that , you will need to click the button at the bottom of the console to get your link to your website.
+You can save your changes while you are editing by clicking the "Save" button above the three panels. Once you are done with editing your website, you can name your Pen. After that , you will need to click the button at the bottom of the console to get your link to your website.
 
-Name Pen and click the button at the bottom of the console. 
+Name Pen and click the button at the bottom of the console: 
 
 ![image](https://user-images.githubusercontent.com/98966846/163002675-8f938fb8-dec5-45f2-9556-2ec67eb5d700.jpg)
 
