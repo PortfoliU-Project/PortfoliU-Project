@@ -8,7 +8,8 @@ To create a CodePen account, visit:
     
 Click "Sign up" at the top right corner. You can sign up with an existing Twitter, Facebook, or Github account. You can also sign up with an email address.
 
-![image](https://www.freecodecamp.org/news/content/images/size/w2000/2021/03/homepage-codepen.png)
+![image](https://www.freecodecamp.org/news/content/images/size/w2000/2021/03/homepage-codepen.png)![image](https://user-images.githubusercontent.com/98966846/162860250-4c3bd00d-9700-4856-8a55-238f12414a20.jpeg)
+
 
 
 ### 2. Next, you will need to verify your email address
@@ -23,10 +24,61 @@ You can create either projects or pens in CodePen. Pens work with HTML, CSS, and
 
 ![image](https://www.freecodecamp.org/news/content/images/2021/10/Screen-Shot-2021-10-29-at-11.49.12-PM.png)
 
-Three panels will open. HTML, CSS, and JS. 
+Three panels will open: HTML, CSS, and JS. 
 
 ![image](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/1094621300/original/ODz1_f8DXdmMhpVJ6wBl8MpJn4txzSEA_A.png?1598957842)
 
 
-### 4. Pick a template of your choice for your website
-There are many templates to choose from for your website. You can find your template in the GitHub repository, on "Find a Free and Open-Source Portfolio Template" . 
+### 4. Pick a template for your website
+
+There are many templates to choose from for your website. You can find your template in the GitHub repository, on "Find a Free and Open-Source Portfolio Template" . There are two folders with templates. There is simple themes and complex themes. For this tutorial we will pick the template "Clean-Minimal". 
+
+This can be found in Templats > Simple Themes > Clean-Minimal.
+
+
+![TEST](https://user-images.githubusercontent.com/98966846/162860561-57fc84ac-8332-417b-b935-53d973c259c9.jpg)
+
+![TEST1](https://user-images.githubusercontent.com/98966846/162860695-4b25414a-f5ec-4b38-af10-cd846750674d.jpg)
+
+![TEST2](https://user-images.githubusercontent.com/98966846/162860193-bac41fe7-cb18-4434-bf84-e551558fa409.jpg)
+
+You can see the sample of the template
+
+![TEST3](https://user-images.githubusercontent.com/98966846/162860860-217496f9-800f-4e2d-a5eb-e92f8842de68.jpg)
+
+
+### 4. You will need HTML and CSS from this template.
+Once you click on the template you want to use, you will need to copy the HTML and CSS code. 
+
+Code is found here: 
+
+![TEST4](https://user-images.githubusercontent.com/98966846/162861509-db11f0a7-1778-4e11-8de8-2c2cdd72a1b1.jpg)
+
+Copy the HTML code and paste it in the CodePen HTML panel. Copy the CSS code and paste it in the CodePen CSS panel
+
+![TEST5](https://user-images.githubusercontent.com/98966846/162862058-c868ada5-a017-49ac-82c6-47ba373fa5bc.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
