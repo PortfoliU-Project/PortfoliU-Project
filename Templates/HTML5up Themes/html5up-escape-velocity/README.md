@@ -32,3 +32,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+# Project Screenshots
+![](screenshots/escape_home.jpg)
+![](screenshots/escape_home2.jpg)
+![](screenshots/escape_contact.jpg)
