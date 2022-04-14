@@ -35,3 +35,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+# Project Screenshots
+![](screenshots/story_home.jpg)
+![](screenshots/story_home2.jpg)
+![](screenshots/story_home3.jpg)
