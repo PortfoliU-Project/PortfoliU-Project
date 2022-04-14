@@ -29,3 +29,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+# Project Screenshots
+![](screenshots/stellar_home.jpg)
+![](screenshots/stellar_home2.jpg)
+![](screenshots/stellar_home3.jpg)
