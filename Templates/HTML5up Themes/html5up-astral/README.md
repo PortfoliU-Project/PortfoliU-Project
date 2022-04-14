@@ -31,3 +31,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+# Project Screenshots
+![](screenshots/astral_home.jpg)
+![](screenshots/work_astral.jpg)
+![](screenshots/contact_astral.jpg)
