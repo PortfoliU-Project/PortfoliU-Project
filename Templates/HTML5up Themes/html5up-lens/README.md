@@ -104,3 +104,7 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+# Project Screenshots
+![](screenshots/lens_home.jpg)
+![](screenshots/lens_home2.jpg)
