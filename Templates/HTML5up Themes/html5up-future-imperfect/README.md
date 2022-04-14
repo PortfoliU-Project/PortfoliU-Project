@@ -29,3 +29,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+# Project Screenshots
+![](screenshots/fut_home.jpg)
+![](screenshots/fut_home2.jpg)
+![](screenshots/fut_about.jpg)
