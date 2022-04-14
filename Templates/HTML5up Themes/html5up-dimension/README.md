@@ -28,3 +28,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+# Project Screenshots
+![](screenshots/dim_home.jpg)
+![](screenshots/dim_intro.jpg)
+![](screenshots/dim_work.jpg)
