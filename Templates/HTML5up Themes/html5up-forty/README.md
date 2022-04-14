@@ -30,3 +30,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+# Project Screenshots
+![](screenshots/forty_home.jpg)
+![](screenshots/forty_home2.jpg)
+![](screenshots/forty_contact.jpg)
