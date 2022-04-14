@@ -380,3 +380,8 @@ Credits:
 		jQuery (jquery.com)
 		normalizeWheel (@miorel + @pieterv of Facebook)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+# Project Screenshots
+![](screenshots/eth_home.jpg)
+![](screenshots/eth_home2.jpg)
+![](screenshots/eth_contact.jpg)
