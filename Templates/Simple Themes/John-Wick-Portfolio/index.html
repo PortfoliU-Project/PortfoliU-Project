@@ -4,47 +4,61 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Front-end-dev-portfolio</title>
 
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-    <!-- custom css file link  -->
+    <!-- css file link  -->
     <link rel="stylesheet" href="css/style.css">
 
+    <!-- This is your tab name, edit to what you prefer. -->
+    <title>Front-end-dev-portfolio</title>
 </head>
+
+
+<!--  It is important to note any extra sections may be deleted if prefered. Be sure to test your code if you do so.  -->
+
+  
 <body>
     
-<!-- navbar section starts  -->
+<!-- NAVBAR SECTION  -->
+    <nav class="navbar">
+        <!-- This is your nav bar. Update with disired tab names (between the >...< tags). -->
+        <!-- Feel free to delete a section, but be sure to test your code. -->
+        <a href="index.html"> <i class="fas fa-home"></i> <span>home</span> </a>
+        <a href="about.html"> <i class="fas fa-user"></i> <span>about</span> </a>
+        <a href="portfolio.html"> <i class="fas fa-briefcase"></i> <span>portfolio</span> </a>
+        <a href="blogs.html"> <i class="fas fa-blog"></i> <span>blogs</span> </a>
+        <a href="contact.html"> <i class="fas fa-address-book"></i> <span>contact</span> </a>
+    </nav>
+<!-- END NAVBAR SECTION -->
 
-<nav class="navbar">
-    <a href="index.html"> <i class="fas fa-home"></i> <span>home</span> </a>
-    <a href="about.html"> <i class="fas fa-user"></i> <span>about</span> </a>
-    <a href="portfolio.html"> <i class="fas fa-briefcase"></i> <span>portfolio</span> </a>
-    <a href="blogs.html"> <i class="fas fa-blog"></i> <span>blogs</span> </a>
-    <a href="contact.html"> <i class="fas fa-address-book"></i> <span>contact</span> </a>
-</nav>
+<!-- HOME SECTION  -->
+    <section class="home">
 
-<!-- navbar section ends -->
+        <div class="image">
 
-<!-- home section starts  -->
+            <!-- Put the link to your image in the "" tags of src -->
+            <!-- The image may need to be square due to compression, otherwise you may need to edit the css code. -->
+            <img src="https://www.sideshow.com/storage/product-images/903754/john-wick_john-wick_square.jpg" alt="">
+        </div>
 
-<section class="home">
+        <div class="content">
 
-    <div class="image">
-        <img src="images/user.jpg" alt="">
-    </div>
+          <!--  Replace John Wick with your name.  -->
+          <h3>hi, i am John Wick</h3>
 
-    <div class="content">
-        <h3>hi, i am John Wick</h3>
-        <span>Front-end developer</span>
-        <p>i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
-        <a href="about.html" class="btn"> about me <i class="fas fa-user"></i> </a>
-    </div>
+          <!--  Replace 'Front-end Developer' with your title.  -->
+          <span>Front-end developer</span>
 
-</section>
+          <!--  Replace this paragraph with your bio/about information.  -->
+          <p>i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
+          <a href="about.html" class="btn"> about me <i class="fas fa-user"></i> </a>
+        </div>
 
-<!-- home section ends -->
+    </section>
+
+<!-- END HOME SECTION -->
 
 </body>
 </html>
