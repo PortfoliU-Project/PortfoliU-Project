@@ -18,7 +18,7 @@ There are many students and incoming people entering the software and informatio
 # Project Goals:
 
 - [x] Develop/acquire the source code for simple personal website portfolios
-- [ ] Create tutorial documentation to aid users through the process of creating their site
+- [x] Create tutorial documentation to aid users through the process of creating their site
 - [ ] Provide resources for users on how to build, maintain and individualize their site
 - [ ] Open the repository to the public
 
