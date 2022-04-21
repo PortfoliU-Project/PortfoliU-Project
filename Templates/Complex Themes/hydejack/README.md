@@ -32,33 +32,6 @@ Hydejack is all static sites. _HTML_. All you need is a web server --- any web s
 
 There are two versions of **Hydejack**: The *Free Version* includes basic blogging functionality and most of Hydejack's [Features], such as dynamic page loading and advanced animations.
 
-The *PRO Version* includes additional features for professionals, such as a [portfolio], [resume], [Dark Mode][dark], [Forms], [Built-In Search][search] and customizable cookie banners.
-
-The table below shows what's included in each version:
-
-|                               | Free           | PRO                 |
-|:------------------------------|:--------------:|:-------------------:|
-| [Blog]                        | &#x2714;       | &#x2714;            |
-| [Features]                    | &#x2714;       | &#x2714;            |
-| [Documentation][docs]         | &#x2714;       | &#x2714;            |
-| [Portfolio]                   |                | &#x2714;            |
-| Printable [Resume]            |                | &#x2714;            |
-| [Dark Mode][dark]             |                | &#x2714;            |
-| [Built-In Search][search]     |                | &#x2714;            |
-| [Custom Forms][forms]         |                | &#x2714;            |
-| [Newsletter Box][news]        |                | &#x2714;            |
-| [Grid layout][grid]           |                | &#x2714;            |
-| [Offline Support][ofln]       |                | &#x2714;            |
-| Table of Contents[^2]         |                | &#x2714;            |
-| Cookie Banner                 |                | &#x2714;            |
-| No Hydejack Branding          |                | &#x2714;            |
-| License                       | [GPL-3.0][lic] | [PRO]               |
-| Source                        | [GitHub][src]  | Included            |
-| __Price__ / Upgrade           | __Free__       | __$99__ / $39 [^3]  |
-| | [__Download__][kit] <br/>-- or --<br/> [__Deploy to Netlify__][nfy] | [__Buy PRO__][buy] |
-
-
-
 
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
 
@@ -145,34 +118,6 @@ An incomplete list of features included in all versions of **Hydejack**:
 * Google Analytics and Google Fonts support
 
 
-## Comparison
-
-There are two versions of **Hydejack**: The *Free Version* includes basic blogging functionality and most of Hydejack's [Features], such as dynamic page loading and advanced animations.
-
-The *PRO Version* includes additional features for professionals, such as a [portfolio], [resume], [Dark Mode][dark], [Forms], [Built-In Search][search] and customizable cookie banners.
-
-The table below shows what's included in each version:
-
-|                               | Free           | PRO                 |
-|:------------------------------|:--------------:|:-------------------:|
-| [Blog]                        | &#x2714;       | &#x2714;            |
-| [Features]                    | &#x2714;       | &#x2714;            |
-| [Documentation][docs]         | &#x2714;       | &#x2714;            |
-| [Portfolio]                   |                | &#x2714;            |
-| Printable [Resume]            |                | &#x2714;            |
-| [Dark Mode][dark]             |                | &#x2714;            |
-| [Built-In Search][search]     |                | &#x2714;            |
-| [Custom Forms][forms]         |                | &#x2714;            |
-| [Newsletter Box][news]        |                | &#x2714;            |
-| [Grid layout][grid]           |                | &#x2714;            |
-| [Offline Support][ofln]       |                | &#x2714;            |
-| Table of Contents[^2]         |                | &#x2714;            |
-| Cookie Banner                 |                | &#x2714;            |
-| No Hydejack Branding          |                | &#x2714;            |
-| License                       | [GPL-3.0][lic] | [PRO]               |
-| Source                        | [GitHub][src]  | Included            |
-| __Price__ / Upgrade           | __Free__       | __$99__ / $39 [^3]  |
-| | [__Download__][kit] <br/>-- or --<br/> [__Deploy to Netlify__][nfy] | [__Buy PRO__][buy] |
 
 [^1]: Actual page load speed depends on your hosting provider, resolution of embedded images and usage of 3rd party plugins.
 
