@@ -1,102 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>portfolio</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- font awesome cdn link  -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
 
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="css/style.css">
+    <!-- you may need to update the file path in the the href link -->
+    <link rel="stylesheet" href="css/style.css" />
 
-</head>
-<body>
-    
-<!-- navbar section starts  -->
+    <!-- This is your tab name, edit to what you prefer. -->
+    <title>portfolio</title>
+      
+  </head>
 
-<nav class="navbar">
-    <a href="index.html"> <i class="fas fa-home"></i> <span>home</span> </a>
-    <a href="about.html"> <i class="fas fa-user"></i> <span>about</span> </a>
-    <a href="portfolio.html"> <i class="fas fa-briefcase"></i> <span>portfolio</span> </a>
-    <a href="blogs.html"> <i class="fas fa-blog"></i> <span>blogs</span> </a>
-    <a href="contact.html"> <i class="fas fa-address-book"></i> <span>contact</span> </a>
-</nav>
+<!--  It is important to note any extra sections may be deleted if prefered. Be sure to test your code if you do so.  -->
 
-<!-- navbar section ends -->
+  <body>
+<!--  NAVBAR SECTION  -->
+    <nav class="navbar">
+      <!-- This is your nav bar. Update with disired tab names (between the >...< tags). -->
+      <!-- Feel free to delete a section, but be sure to test your code. -->
+      <!-- If you do delete a section, you will not need that html file, and the link from all the other html files. -->
+      <a href="index.html"> <i class="fas fa-home"></i> <span>home</span> </a>
+      <a href="about.html"> <i class="fas fa-user"></i> <span>about</span> </a>
+      <a href="portfolio.html">
+        <i class="fas fa-briefcase"></i> <span>portfolio</span>
+      </a>
+      <a href="blogs.html"> <i class="fas fa-blog"></i> <span>blogs</span> </a>
+      <a href="contact.html">
+        <i class="fas fa-address-book"></i> <span>contact</span>
+      </a>
+    </nav>
+<!-- END NAVBAR SECTION -->
 
-<!-- portfolio section starts  -->
+<!-- PORTFOLIO SECTION  -->
+    <section class="portfolio">
+        
+      <!--  you can replace the 'my' 'work' with something else if you'd like  -->
+      <h1 class="heading"><span>my</span> work</h1>
 
-<section class="portfolio">
-
-    <h1 class="heading"> <span>my</span> work </h1>
-
-    <div class="box-container">
-
+      <div class="box-container">
+        <!--  This section is your portfolio/work, update the filler information with your info.  -->
+        <!--  Delete any extra div sections with the class 'box' as necessary.  -->
+          
         <div class="box">
-            <img src="images/img-1.png" alt="">
-            <div class="content">
-                <h3>CheatSheet Hub</h3>
-                <p>Cheatsheets That Devlope Your Productivity</p>
-                <a href="https://naemazam.github.io/CheatSheets-Hub/">read more</a>
-            </div>
+          <img src="images/img-1.png" alt="" />
+          <div class="content">
+            <h3>CheatSheet Hub</h3>
+            <p>Cheatsheets That Devlope Your Productivity</p>
+            <a href="https://naemazam.github.io/CheatSheets-Hub/">read more</a>
+          </div>
         </div>
 
         <div class="box">
-            <img src="images/img-2.png" alt="">
-            <div class="content">
-                <h3>Covid-19</h3>
-                <p>COVID-19 is caused by a coronavirus called SARS-CoV-2.</p>
-                <a href="https://naemazam.github.io/COVID-19_Fighter/">read more</a>
-            </div>
-        </div>
-       
-        <div class="box">
-            <img src="images/img-3.png" alt="">
-            <div class="content">
-                <h3>Chess</h3>
-                <p>Chess is a board game played between two players.</p>
-                <a href="https://naemazam.github.io/Online-Chess/">read more</a>
-            </div>
+          <img src="images/img-2.png" alt="" />
+          <div class="content">
+            <h3>Covid-19</h3>
+            <p>COVID-19 is caused by a coronavirus called SARS-CoV-2.</p>
+            <a href="https://naemazam.github.io/COVID-19_Fighter/">read more</a>
+          </div>
         </div>
 
         <div class="box">
-            <img src="images/img-4.png" alt="">
-            <div class="content">
-                <h3>Need Linux</h3>
-                <p>Hi, Tux User, It's Time For Make A world of Open Source</p>
-                <a href="https://need-linux.github.io/">read more</a>
-            </div>
+          <img src="images/img-3.png" alt="" />
+          <div class="content">
+            <h3>Chess</h3>
+            <p>Chess is a board game played between two players.</p>
+            <a href="https://naemazam.github.io/Online-Chess/">read more</a>
+          </div>
         </div>
 
         <div class="box">
-            <img src="images/img-5.png" alt="">
-            <div class="content">
-                <h3>CV Baba</h3>
-                <p>Make your Resume
-look really good.</p>
-                <a href="https://naemazam.github.io/CV_Baba/">read more</a>
-            </div>
+          <img src="images/img-4.png" alt="" />
+          <div class="content">
+            <h3>Need Linux</h3>
+            <p>Hi, Tux User, It's Time For Make A world of Open Source</p>
+            <a href="https://need-linux.github.io/">read more</a>
+          </div>
         </div>
 
         <div class="box">
-            <img src="images/img-6.png" alt="">
-            <div class="content">
-                <h3>Soft UI</h3>
-                <p>Perfect Soft UI Portfolio</p>
-                <a href="#">read more</a>
-            </div>
+          <img src="images/img-5.png" alt="" />
+          <div class="content">
+            <h3>CV Baba</h3>
+            <p>Make your Resume look really good.</p>
+            <a href="https://naemazam.github.io/CV_Baba/">read more</a>
+          </div>
         </div>
 
-    </div>
+        <div class="box">
+          <img src="images/img-6.png" alt="" />
+          <div class="content">
+            <h3>Soft UI</h3>
+            <p>Perfect Soft UI Portfolio</p>
+            <a href="#">read more</a>
+          </div>
+        </div>
+      </div>
 
-    <a href="#" class="btn"> load more <i class="fas fa-redo"></i> </a>
-    
-</section>
-
-<!-- portfolio section ends -->
-
-</body>
+      <!--  This a tag is a button. It doesn't seem to have any functionality right now.  -->
+      <!--  If you do have more work to show: do your own research to make it function and load more.  -->
+      <!--  Otherwise, you can either delete this.  -->
+      <a href="#" class="btn"> load more <i class="fas fa-redo"></i> </a>
+        
+    </section>
+<!-- END PORTFOLIO SECTION -->
+      
+  </body>
 </html>
