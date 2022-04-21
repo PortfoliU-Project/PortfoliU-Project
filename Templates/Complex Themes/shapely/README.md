@@ -1,4 +1,7 @@
 # Shapely
+![](https://github.com/CIS320-team-3/CIS320-Team-3/blob/704f432605b0845b69ec57ec7d84bf02726cb5e2/Templates/Complex%20Themes/shapely/assets/images/shapely.png)
+
+To view a live demo, [click here](https://colorlibhub.com/shapely/).
 
 ## About Shapely
 
