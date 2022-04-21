@@ -1,106 +1,136 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>contact</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- font awesome cdn link  -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
 
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="css/style.css">
+    <!-- you may need to update the file path in the the href link -->
+    <link rel="stylesheet" href="css/style.css" />
 
-</head>
-<body>
-    
-<!-- navbar section starts  -->
+    <!-- This is your tab name, edit to what you prefer. -->
+    <title>contact</title>
+  </head>
 
-<nav class="navbar">
-    <a href="index.html"> <i class="fas fa-home"></i> <span>home</span> </a>
-    <a href="about.html"> <i class="fas fa-user"></i> <span>about</span> </a>
-    <a href="portfolio.html"> <i class="fas fa-briefcase"></i> <span>portfolio</span> </a>
-    <a href="blogs.html"> <i class="fas fa-blog"></i> <span>blogs</span> </a>
-    <a href="contact.html"> <i class="fas fa-address-book"></i> <span>contact</span> </a>
-</nav>
+  <!--  It is important to note any extra sections may be deleted if prefered. Be sure to test your code if you do so.  -->
 
-<!-- navbar section ends -->
+  <body>
+<!-- NAVBAR SECTION  -->
+    <nav class="navbar">
+      <!-- This is your nav bar. Update with disired tab names (between the >...< tags). -->
+      <!-- Feel free to delete a section, but be sure to test your code. -->
+      <!-- If you do delete a section, you will not need that html file. -->
+      <a href="index.html"> <i class="fas fa-home"></i> <span>home</span> </a>
+      <a href="about.html"> <i class="fas fa-user"></i> <span>about</span> </a>
+      <a href="portfolio.html">
+        <i class="fas fa-briefcase"></i> <span>portfolio</span>
+      </a>
+      <a href="blogs.html"> <i class="fas fa-blog"></i> <span>blogs</span> </a>
+      <a href="contact.html">
+        <i class="fas fa-address-book"></i> <span>contact</span>
+      </a>
+    </nav>
+<!-- END NAVBAR SECTION -->
 
-<!-- contact section starts  -->
+<!-- CONTACT SECTION  -->
+    <section class="contact">
+      <h1 class="heading">contact <span>me</span></h1>
 
-<section class="contact">
+      <div class="row">
+        <div class="info-container">
+          <!--  you can replace the 'get in touch' with something else if you'd like  -->
+          <h1>get in touch</h1>
 
-<h1 class="heading"> contact <span>me</span> </h1>
+          <!--  you can replace this text with something else if you'd like  -->
+          <!-- feel free to delete the paragraph section (the 'p' tag) -->
+          <p>Tell me If You have any Project :-)</p>
 
-<div class="row">
-
-    <div class="info-container">
-
-        <h1>get in touch</h1>
-
-        <p>Tell me If You have any Project :-)</p>
-
-        <div class="box-container">
+          <div class="box-container">
+            <!--  This section is your contact info, update the filler information with your info.  -->
+            <!--  Delete any extra div sections with the class 'box' as necessary.  -->
 
             <div class="box">
-                <i class="fas fa-map"></i>
-                <div class="info">
-                    <h3>address :</h3>
-                    <p>New York, USA</p>
-                </div>
+              <i class="fas fa-map"></i>
+              <div class="info">
+                <h3>address :</h3>
+                <p>New York, USA</p>
+              </div>
             </div>
 
             <div class="box">
-                <i class="fas fa-envelope"></i>
-                <div class="info">
-                    <h3>email :</h3>
-                    <p>yourmail@mail.com</p>
-                </div>
+              <i class="fas fa-envelope"></i>
+              <div class="info">
+                <h3>email :</h3>
+                <p>yourmail@mail.com</p>
+              </div>
             </div>
 
             <div class="box">
-                <i class="fas fa-phone"></i>
-                <div class="info">
-                    <h3>number :</h3>
-                    <p>+123-456-7890</p>
-                </div>
+              <i class="fas fa-phone"></i>
+              <div class="info">
+                <h3>number :</h3>
+                <p>+123-456-7890</p>
+              </div>
             </div>
+          </div>
 
-        </div>
+          <div class="share">
+            <!-- if you change any of the profiles to another site/profile, you may need to update the fab icon -->
+            <!-- to change the fab icon, you can visit font awesome icons at: https://fontawesome.com/v4/icons/ -->
+            <!-- select the icon to see the required HMTL code for that icon -->
 
-        <div class="share">
+            <!--  replace the href link with the link to your Facebook or other profile/website.  -->
             <a href="#" class="fab fa-facebook-f"></a>
+
+            <!--  replace the href link with the link to your Twitter or other profile/website.  -->
             <a href="#" class="fab fa-twitter"></a>
+
+            <!--  replace the href link with the link to your Instagram or other profile/website.  -->
             <a href="#" class="fab fa-instagram"></a>
+
+            <!--  replace the href link with the link to your LinkedIn or other profile/website.  -->
             <a href="#" class="fab fa-linkedin"></a>
+
+            <!--  replace the href link with the link to your GitHub or other profile/website.  -->
+            <a href="#" class="fab fa-github"></a>
+          </div>
         </div>
 
-    </div>
+        <form action="">
+          <!--  This section is a form for someone to contact you.  -->
+          <!--  Update the filler information with your preferred defaults.  -->
+          <!--  Delete any extra div sections with the class 'box' as necessary.  -->
 
-    <form action="">
+          <div class="inputBox">
+            <input type="text" placeholder="your name" />
+            <input type="number" placeholder="your number" />
+          </div>
 
-        <div class="inputBox">
-            <input type="text" placeholder="your name">
-            <input type="number" placeholder="your number">
-        </div>
+          <div class="inputBox">
+            <input type="email" placeholder="your email" />
+            <input type="text" placeholder="your subject" />
+          </div>
 
-        <div class="inputBox">
-            <input type="email" placeholder="your email">
-            <input type="text" placeholder="your subject">
-        </div>
+          <textarea
+            name=""
+            placeholder="your message"
+            id=""
+            cols="30"
+            rows="10"
+          ></textarea>
 
-        <textarea name="" placeholder="your message" id="" cols="30" rows="10"></textarea>
-
-        <input type="submit" value="send message" class="btn">
-
-    </form>
-
-</div>
-
-</section>
-
-<!-- contact section ends -->
-
-</body>
+          <input type="submit" value="send message" class="btn" />
+        </form>
+      </div>
+    </section>
+<!-- END CONTACT SECTION -->
+      
+  </body>
 </html>
