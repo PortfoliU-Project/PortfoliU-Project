@@ -30,3 +30,18 @@ In order to ensure that all members of the PortfoliU community are able to work 
 - If you are unsure about anything, feel free to open an issue asking for help.
 
 Thank you for helping to make the PortfoliU repository a positive and welcoming place for all!
+
+Our goal is to make our tutorials more accessible to people around the world by translating them into different languages.
+
+
+# How can I help?
+
+You can help us by:
+* Adding comments to our existing templates to increase understanding of the code. 
+* Adding new open-source and cited templates for others to use.
+* Updating, appending, or creating new tutorials.
+* Adding screenshots of templates in action.
+* Linking to helpful resources. 
+* Translating our tutorials into your native language.
+* Have an idea, create an issue and get feedback!
+
