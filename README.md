@@ -2,7 +2,7 @@
 
 # PortfoliU Project
 
-Build and develop a free open-source repository with the resources, documentation, and information that allows students to create a simple personal website portfolio.
+PortfoliU is an open-source Github project that helps people gather the knowledge they need to create their own portfolio websites for free. By providing templates, tutorials, and tips & tricks, PortfoliU makes it easy for anyone to create a professional portfolio website – no design or coding skills required!
 
 ## Learn About the PortfoliU Team [Here](https://github.com/CIS320-team-3/CIS320-Team-3/tree/main/Team)
 
