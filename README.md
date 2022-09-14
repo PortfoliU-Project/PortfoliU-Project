@@ -1,4 +1,4 @@
-<img src="https://github.com/CIS320-team-3/CIS320-Team-3/blob/21f332921d17bbce9f4e3fcbd21c74c9825d5c02/Team/Images/PortfoliU-Project-Translucent.png"/>
+<img src="https://github.com/CIS320-team-3/CIS320-Team-3/blob/1dad6fea7c43840affd579a7aa2e793c8e0efb1a/Team/Images/PortfoliU%20Project.png" width=100%/>
 
 # PortfoliU Project
 
