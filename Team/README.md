@@ -1,5 +1,4 @@
-![image](https://github.com/CIS320-team-3/CIS320-Team-3/blob/714cab94dc90243c06e8213a9fa565fb046bafb8/Team/Images/PortfoliU%20Project-logos_transparent_banner.png)
-
+<img src="https://github.com/CIS320-team-3/CIS320-Team-3/blob/1dad6fea7c43840affd579a7aa2e793c8e0efb1a/Team/Images/PortfoliU%20Project.png" width=100%/>
 
 # Mission:
 
