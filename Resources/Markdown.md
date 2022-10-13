@@ -1,5 +1,9 @@
 # Markdown
-
+Documentation on programming projects is often lacking.  Markdown provides a 
+means to discuss a project and its features using a language that all web 
+browsers and integrated development environments (IDEs) can understand.  Far 
+easier than hypertext markup language (HTML) to learn, Markdown can be 
+learned in a few minutes. 
 
 ## Links / Resources
 ### Cheat Sheet
