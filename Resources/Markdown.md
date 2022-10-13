@@ -40,6 +40,15 @@ learned in a few minutes.
 - [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
 
 ### Writing, Formatting, and Syntax
-* Description:
-* Examples:
-* Resource: [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+***Description***:
+- Provides an in-depth listing of examples of how to create formatted text 
+  and code on GitHub while explaining when to use certain cases of a format.
+
+***Examples***:
+- Headings
+- Styling Text: Bold, Italics, Strikethrough, etc.
+- Quotes: Text, Code
+- Lists: Unordered, Ordered, Nested, Task
+
+***Resource***:
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
