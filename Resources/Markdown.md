@@ -9,7 +9,7 @@ easier than hypertext markup language (HTML) to learn, basic Markdown can be
 learned in a few minutes. 
 
 ## Links / Resources
-### Cheat Sheet
+### Markdown Cheat Sheet
 ***Description***: 
 - Provides a quick overview of all Markdown syntax elements.
 
@@ -33,7 +33,7 @@ learned in a few minutes.
 
 ***Examples***:
 - Creating headings
-- [] Creating check boxes
+- Creating check boxes
 - Adding Images
 
 ***Resource***:
