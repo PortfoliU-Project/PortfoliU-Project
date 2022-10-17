@@ -31,10 +31,11 @@ These resources are articles that go through a tutorial and guide you in creatin
 If you're a beginner trying to create your own portfolio website, this tutorial. It has clear instructions that are easy to follow and even some examples of portfolio websites at the end. This is a quick and easy process, even if you are inexperienced with GitHub or coding in general.
 * [Portfolio Website — The Beginners’ Way!](https://medium.com/analytics-vidhya/portfolio-website-the-beginners-way-d43be855217e)
 
-The following resources are split into two parts:
+For another detailed guide on how to create and host your portfolio website, look at the following resources, which are split into two parts:
 * [Part 1](https://levelup.gitconnected.com/how-to-build-a-web-developer-portfolio-for-free-d456699ecef7) focuses on how to create and host a personal portfolio website. It goes into a detailed tutorial on creating your website using GitHub Pages (to host the static website), HTML5 UP (for the template), Unsplash (for background images), and Formspree (for the backend to receive any forms).
 * [Part 2](https://levelup.gitconnected.com/how-to-build-a-web-developer-portfolio-for-free-part-2-d099ff34f9b2) goes into how a portfolio website should be structured, how it should look, and what should be included in your portfolio website. It focuses on the landing page, bio/about, projects, blog, and a contact form.
 
-<!-- might want to change these into headers and not bullet points -->
-* ### [More Free and Open-Source Website templates](https://html5up.net/)
- * This shows a variety of free, open-source website templates that you can use, along with examples of said sites and their appearances.
+### More Free and Open-Source Website templates
+The following are a variety of free open-source website templates that you can use, along with examples of the websites so you can quickly compare templates.
+ * [HTML5 UP](https://html5up.net/)
+ * [Free CSS](https://www.free-css.com/template-categories/portfolio)
