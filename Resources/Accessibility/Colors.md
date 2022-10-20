@@ -17,7 +17,8 @@
 
 ## Other resources
 
+This is a tool to check the contrast between colors. Typically colors with high contrast are easier to see when layered. Ex: Black on white.
 * https://www.a11yproject.com/posts/what-is-color-contrast/
-  * Tool to check the contrast between colors. Typically colors with high contrast are easier to see when layered. Ex: Black on white.
+
+This is a tool where you can input a color palette and it will show you the various combinations of text colors on backgrounds that are considered accessible and which are not.
 * https://toolness.github.io/accessible-color-matrix/
-    * Tool where you can input a color palette and it will show you the various combinations of text colors on backgrounds that are considered accessible and which are not.
