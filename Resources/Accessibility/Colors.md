@@ -3,11 +3,11 @@
 
 ## Why should you care?
 
-* Everybody uses the internet and each of them are different! Its unlikely that you will know every user so creating a website that some can't use is annoying to them and detrimental to your websites growth. Having more users helps expand the site's reach and increases the likelyhood of gaining more users in the future.
+Everybody uses the internet and each of them are different! It's unlikely that you will know every user so creating a website that some can't use is annoying to them and detrimental to your websites growth. Having more users helps expand the site's reach and increases the likelyhood of gaining more users in the future.
 
 ## Who does this affect?
 
-* The short answer is everybody! Ensuring that colors are easy to see and read is important for everyone but especially people who have color blindness or other impairments.
+The short answer is everybody! Ensuring that colors are easy to see and read is important for everyone but especially people who have color blindness or other impairments.
 
 ### What is color blindess?
 
