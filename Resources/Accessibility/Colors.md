@@ -12,6 +12,12 @@ The short answer is everybody! Ensuring that colors are easy to see and read is 
 ### What is color blindess?
 
 ## How to be proactive and work towards a more accesible web
+Designing for accessibility doesn’t mean that the aesthetic integrity of your design needs to suffer. With that in mind, here are the top five elements that should be focused on for a colorblind-friendly UX:
+  • Use both colors and symbols
+  • Keep it minimal
+  • Use patterns and textures to show contrast
+  • Be careful with contrasting colors and hues
+  • Avoid bad color combos
 
 ## Common pitfalls
 
