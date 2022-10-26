@@ -9,7 +9,10 @@ Everybody uses the internet and each of them are different! It's unlikely that y
 
 The short answer is everybody! Ensuring that colors are easy to see and read is important for everyone but especially people who have color blindness or other impairments.
 
-### What is color blindess?
+## What is color blindess?
+
+Color blindness is a medical condition where an individual can't see colors in a normal way. However, there are a few different forms of color blindness. The most common version of color blindness is the inability to distinguish between different shades of red and green. Another type of color blindness has difficulty between blue and yellow, and a third type of color blindness leaves the individual with no color perception -- everything they see is in greyscale. 
+This condition is passed genetically, but it can also develop from traumatic injury to your eyes or brain.
 
 ## How to be proactive and work towards a more accesible web
 
