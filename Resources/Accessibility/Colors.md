@@ -23,6 +23,11 @@ Designing for accessibility doesn’t mean that the aesthetic integrity of your 
   • Avoid bad color combos
 
 ## Common pitfalls
+Like fonts, Colors are important for making a user feel at ease when they enter a website and serve as an eye-catching layout to draw their attention to the content.Because of this, web designers must use them both appropriately and creatively without jeopardizing the website's text legibility.A poorly designed color scheme can have unexpected problems that hinder the UX of your B2B website and drive visitors away. Here are some of the Common mistake which Developer does:
+   • Colors are too vibrant/too neutral
+   • Excessive usage of Neon Colors
+   • Using too many colors at once (Rainbow Patterns)
+   • Black/white minimalism may be tempting, but use it with moderation.
 
 ## Other resources
 
