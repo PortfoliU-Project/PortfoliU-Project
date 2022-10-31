@@ -18,11 +18,11 @@ This condition is passed genetically, but it can also develop from traumatic inj
 
 ## How to be proactive and work towards a more accesible web
 Designing for accessibility doesn’t mean that the aesthetic integrity of your design needs to suffer. With that in mind, here are the top five elements that should be focused on for a colorblind-friendly UX:
-  • Use both colors and symbols
-  • Keep it minimal
-  • Use patterns and textures to show contrast
-  • Be careful with contrasting colors and hues
-  • Avoid bad color combos
+  * Use both colors and symbols
+  * Keep it minimal
+  * Use patterns and textures to show contrast
+  * Be careful with contrasting colors and hues
+  * Avoid bad color combos
 
 ## Common pitfalls
 Like fonts, Colors are important for making a user feel at ease when they enter a website and serve as an eye-catching layout to draw their attention to the content.Because of this, web designers must use them both appropriately and creatively without jeopardizing the website's text legibility.A poorly designed color scheme can have unexpected problems that hinder the UX of your B2B website and drive visitors away. Here are some of the Common mistake which Developer does:
