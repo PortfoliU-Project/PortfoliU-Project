@@ -1,7 +1,7 @@
 
 # Accessibility with respect to color
 
-![image](https://github.com/PortfoliU-Project/PortfoliU-Project/blob/b45836821d9dbdf6f8a8d5c6b2c00b1985c4a198/Team/Assets/Color-Blindness.jpg)
+<img src="https://github.com/PortfoliU-Project/PortfoliU-Project/blob/b45836821d9dbdf6f8a8d5c6b2c00b1985c4a198/Team/Assets/Color-Blindness.jpg" width=40%/>
 
 ## Why should you care?
 
