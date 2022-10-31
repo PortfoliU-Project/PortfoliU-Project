@@ -12,7 +12,7 @@ The short answer is everybody! Ensuring that colors are easy to see and read is 
 ## What is color blindess?
 
 Color blindness is a medical condition where an individual can't see colors in a normal way. However, there are a few different forms of color blindness. The most common version of color blindness is the inability to distinguish between different shades of red and green. Another type of color blindness has difficulty between blue and yellow, and a third type of color blindness leaves the individual with no color perception -- everything they see is in greyscale. 
-This condition is passed genetically, but it can also develop from traumatic injury to your eyes or brain.
+This condition is passed genetically, but it can also develop from traumatic injury to your eyes or brain. If passed genetically, there is no treatment for it. Usually, this condition is more seen in men as compared to women.
 
 ## How to be proactive and work towards a more accesible web
 Designing for accessibility doesn’t mean that the aesthetic integrity of your design needs to suffer. With that in mind, here are the top five elements that should be focused on for a colorblind-friendly UX:
