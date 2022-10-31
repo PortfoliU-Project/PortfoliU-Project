@@ -1,6 +1,8 @@
 
 # Accessibility with respect to color
 
+![image](https://github.com/PortfoliU-Project/PortfoliU-Project/blob/b45836821d9dbdf6f8a8d5c6b2c00b1985c4a198/Team/Assets/Color-Blindness.jpg)
+
 ## Why should you care?
 
 Everybody uses the internet and each of them are different! It's unlikely that you will know every user so creating a website that some can't use is annoying to them and detrimental to your websites growth. Having more users helps expand the site's reach and increases the likelyhood of gaining more users in the future.
