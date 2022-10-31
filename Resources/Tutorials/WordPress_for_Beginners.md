@@ -1,6 +1,6 @@
 # WordPress For Beginners
 
-![image](https://github.com/CIS320-team-3/CIS320-Team-3/blob/main/Team/Images/Wordpress.jpg)
+![image](https://github.com/CIS320-team-3/CIS320-Team-3/blob/main/Team/Assets/Wordpress.jpg)
 
 ## Step by step guide to build a free website with WordPress
 
