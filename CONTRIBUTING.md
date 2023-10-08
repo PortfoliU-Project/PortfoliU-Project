@@ -25,9 +25,8 @@ Not sure where to start contributing to PortfoliU Project? You can start by looo
 
 If this is your first time contributing to open-source and you're still unsure where to begin, look into some of these community recommended tutorials / Learning Labs:
 * [How to Contribute to an Open Source Project on GitHub](https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github)
-   * 38m
-   * GitHub
-   * Git
+   * ~38 minutes long
+   * Covers GitHub and Git
 * [GitHub Skills](https://skills.github.com/)
    * This has various learning labs within it, like Introduction to GitHub and GitHub pages.
 
