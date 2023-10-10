@@ -10,8 +10,8 @@
 * ### [WordPress Online Portfolio Tutorial](https://github.com/CIS320-team-3/CIS320-Team-3/blob/main/Resources/Tutorials/WordPress_for_Beginners.md)
   * This goes over the basics of WordPress and how to make a free website using it. With a focus on how to create portfolios using it, this is a valuable resource to check and use.
 
-* ### How to Create and Host a Webpage on Github with Github Pages
-  * [For those unfamiliar with Github or Github Pages, this is a step-by-step tutorial on how to create and host your webpage on the site.](https://youtu.be/2MsN8gpT6jY)
+* ### [How to Create and Host a Webpage on Github with Github Pages](https://youtu.be/2MsN8gpT6jY)
+  * For those unfamiliar with Github or Github Pages, this is a step-by-step tutorial on how to create and host your webpage on the site.
 
 * ### [Beginner's Guide to CodePen Tutorial](https://github.com/CIS320-team-3/CIS320-Team-3/blob/main/Resources/Tutorials/CodePen_Tutorial.md)
   * [The tutorial here goes over the basics of CodePen. CodePen is a good resource that is free to use and helpful when editing your online code.](https://www.freecodecamp.org/news/how-to-use-codepen/)
