@@ -14,7 +14,7 @@
   * For those unfamiliar with Github or Github Pages, this is a step-by-step tutorial on how to create and host your webpage on the site.
 
 * ### [Beginner's Guide to CodePen Tutorial](https://github.com/CIS320-team-3/CIS320-Team-3/blob/main/Resources/Tutorials/CodePen_Tutorial.md)
-  * [The tutorial here goes over the basics of CodePen. CodePen is a good resource that is free to use and helpful when editing your online code.](https://www.freecodecamp.org/news/how-to-use-codepen/)
+  * The tutorial here goes over the basics of CodePen. CodePen is a good resource that is free to use and helpful when editing your online code.
 
 * ### [HTML for Beginners Tutorial](https://github.com/CIS320-team-3/CIS320-Team-3/blob/main/Resources/Tutorials/HTML_Beginners_Guide.md)
   * If you are unfamiliar with HTML, this tutorial will help you understand how to read and edit it.
